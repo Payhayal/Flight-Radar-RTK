@@ -1,30 +1,14 @@
 # React + Vite
 
-##Libraries Used:
-
--@reduxjs/toolkit
-
--react-redux
- 
--thunk
-  
--axios
-
--leaflet
-   
--react-leaflet
-    
--react-paginate
-
 Sources: 
 
 API: https://rapidapi.com/apidojo/api/flight-radar1
 
+##Libraries Used: @reduxjs/toolkit,react-redux,thunk,axios,leaflet,react-leaflet and react-paginate.
 
- ##SCREEN GIF
+##SCREEN GIF
 
-
-![](/public/images/)
+![](/public/images/flight.gif)
 
 
 ##SCREEN VIEW
@@ -36,7 +20,7 @@ API: https://rapidapi.com/apidojo/api/flight-radar1
 ![](/public/images/fradar3.png)
 
 
-# Libraries:
+# Libraries Used:
 
 ## @reduxjs/toolkit: This is a package that simplifies Redux setup by providing utilities to write Redux logic in a more concise way. It includes functions for creating reducers, actions, and configuring the Redux store.
 
