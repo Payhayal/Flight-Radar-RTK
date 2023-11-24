@@ -20,6 +20,7 @@ Sources:
 
 API: https://rapidapi.com/apidojo/api/flight-radar1
 
+
  ##SCREEN GIF
 
 
@@ -50,12 +51,9 @@ API: https://rapidapi.com/apidojo/api/flight-radar1
 
 ## leaflet: A leading open-source JavaScript library for mobile-friendly interactive maps. It provides various mapping functionalities and is customizable with a wide range of plugins.
 
-
 ## react-leaflet: It's a React wrapper for Leaflet, allowing easy integration of Leaflet maps into React applications by providing components that can be used declaratively within React components.
 
-
 ## react-paginate: A pagination component for React. It helps in creating paginated views by providing components to handle pagination logic and UI elements.
-
 
 Each of these libraries serves specific purposes in building web applications, from managing state (Redux) to handling asynchronous operations (axios, thunk), and integrating interactive maps (Leaflet, react-leaflet), or managing pagination (react-paginate) in React applications.
 
