@@ -24,7 +24,7 @@ API: https://rapidapi.com/apidojo/api/flight-radar1
  ##SCREEN GIF
 
 
-![](/public/images/)
+![](/public/images/flight.gif)
 
 
 ##SCREEN VIEW

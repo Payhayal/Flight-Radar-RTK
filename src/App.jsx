@@ -15,7 +15,9 @@ function App() {
   const dispatch = useDispatch();
 
   useEffect(() => {
+   setInterval(()=> {
     dispatch(getFlights());
+   }, 5000);
   },[])
 
   const openModal = (id) => {
