@@ -2,7 +2,7 @@
 
 Sources: API: https://rapidapi.com/apidojo/api/flight-radar1<hr>
 
-##Libraries Used: @reduxjs/toolkit,react-redux,thunk,axios,leaflet,react-leaflet and react-paginate.<hr>
+##Libraries Used: @reduxjs/toolkit, react-redux, thunk, axios, leaflet, react-leaflet and react-paginate.<hr>
 
 ##SCREEN GIF <hr>
 
