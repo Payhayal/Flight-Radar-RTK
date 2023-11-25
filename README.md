@@ -1,4 +1,4 @@
-# React + Vite
+# Flight Radar Project with Redux Toolkit Thunk
 
 Sources: API: https://rapidapi.com/apidojo/api/flight-radar1<hr>
 
