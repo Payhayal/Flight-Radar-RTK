@@ -15,9 +15,13 @@ function App() {
   const dispatch = useDispatch();
 
   useEffect(() => {
-   setInterval(()=> {
+   const ref = setInterval(()=> {
     dispatch(getFlights());
    }, 5000);
+// baska bir sayfaya gecildiginde tekrar durdurur(clearInterval)
+   return () => {
+    clearInterval(ref);
+   }
   },[])
 
   const openModal = (id) => {
